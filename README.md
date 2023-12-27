@@ -1,2 +1,2 @@
-# google-places-reviews
-google places reviews
+# googleplacesreviews
+google-places-reviews
